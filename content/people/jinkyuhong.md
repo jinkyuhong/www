@@ -29,8 +29,8 @@ weight = 8
 
 #### 약력
 + Science Steering Committee Member of AsiaFlux (http://asiaflux.net) (2014-present)
-+ Technical Advisory Committee Member of Korea Institute of Atmospheric Prediction System (http://kiaps.org) (2015-present)
-+ Advisory committee member for weather and climate business support center, KMIPA (2015- present)
++ Technical Advisory Committee Member of Korea Institute of Atmospheric Prediction System (http://kiaps.org) (2015-2016)
++ Advisory committee member for weather and climate business support center, KMIPA (2015-2017)
 + Research proposal investigator in National Research Foundation
 + Organizing committee member of 1st and 2nd Urban and Rural Meteorology Workshop 2012 (http://workshop.wise2020.org)
 + International organizing committee member of 6th China-Korea-Japan Joint Conference on Meteorology (http://www.cms1924.org/CN/News/2013-06/EnableSite_ReadNews196619051371484800.html)
