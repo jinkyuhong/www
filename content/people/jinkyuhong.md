@@ -28,7 +28,7 @@ weight = 8
 + 2006 - 2008 : Postdoctoral Researcher, Univ. of Georgia, USA
 
 #### 약력
-+ Science Steering Committee Member of AsiaFlux (http://asiaflux.net) (2014-2017)
++ Science Steering Committee Member of AsiaFlux (http://asiaflux.net) (2014-present)
 + Technical Advisory Committee Member of Korea Institute of Atmospheric Prediction System (http://kiaps.org) (2015-present)
 + Advisory committee member for weather and climate business support center, KMIPA (2015- present)
 + Research proposal investigator in National Research Foundation
@@ -39,12 +39,12 @@ weight = 8
 + Hosting the 1st Domestic Expert Workshop on Surface Flux Measurement and Modeling (2009)
 
 #### Courses
++ 도시 기상학
 + 미기상학
 + 생물-대기 상호작용
 
 #### Selected Publications
-+ Tang, W., A. Arellano, J. DiGangi, Y. Choi, G. Diskin, A. Agustí-Panareda, M. Parrington, S. Massart, B. Gaubert, Y. Lee, D. Kim, J. Jung, J. Hong, J.-W. Hong, Y. Kanaya, M. Lee, R. Stauffer, A. Thompson, J. Flynn, and J. Woo (2018) Evaluating High-Resolution Forecasts of Atmospheric CO and CO2 from a Global Prediction System during KORUS-AQ Field Campaign, Atmospheric Chemistry and Physics, submitted.
-
++ Tang, W., A. Arellano, J. DiGangi, Y. Choi, G. Diskin, A. Agustí-Panareda, M. Parrington, S. Massart, B. Gaubert, Y. Lee, D. Kim, J. Jung, J. Hong, J.-W. Hong, Y. Kanaya, M. Lee, R. Stauffer, A. Thompson, J. Flynn, and J. Woo (2018) Evaluating High-Resolution Forecasts of Atmospheric CO and CO2 from a Global Prediction System during KORUS-AQ Field Campaign, Atmospheric Chemistry and Physics, 18, 11007-11030
 + Lim, K., J. Lim, H. Shin, J. Hong, and Y. Ji (2018) Impacts of subgrid-scale orography parameterization on simulated atmospheric fields in the high-resolution atmospheric forecast model, Meteorology and Atmospheric Physics, in revision.
 + Song, I., U. Byun, J. Hong and S. Park (2018) Domain-size and top-height dependence in regional predictions for East Asia in spring, Atmospheric Science Letters, 19, e799. https://doi:10.1002/asl.799. [Open Access]
 + Kent, C., K. Lee, H. C. Ward, J.-W. Hong, J. Hong, D. Gatey, and S. Grimmond (2018) Aerodynamic roughness variation with vegetation: Analysis in a suburban neighbourhood and a city park, Urban Ecosystems, doi:10.1007/s11252-017-0710-1. [Open Access]
